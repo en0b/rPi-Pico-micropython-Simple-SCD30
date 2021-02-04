@@ -15,6 +15,6 @@ RDY|GP7
 GND|GND
 
 ## One way to use it
-*Follow official setup/tutorial to set up your Pico.
-*Copy paste script into Thonny and download to Pico.
+* Follow official setup/tutorial to set up your Pico.
+* Copy paste script into Thonny and download to Pico.
 
