@@ -5,7 +5,7 @@
 - Raspberry Pi Pico **with micropython** installed
 - Sensirion SCD30 CO2 sensor
 
-## Connection
+## Wiring
 SCD30|Pico
 -----|-----
 VIN|VBUS
